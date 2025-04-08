@@ -61,4 +61,4 @@ Deployed on Vercel for:
 
 ---
 
-Developed with ❤️ by ZyNerd
+Developed with ❤️ by Jebarson
