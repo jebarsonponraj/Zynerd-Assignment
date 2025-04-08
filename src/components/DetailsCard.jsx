@@ -3,7 +3,7 @@ import Drops from "/public/Drops.svg"
 import Sun from "/public/Sun.svg"
 import TempCold from "/public/tempCold.svg"
 import TempHeat from "/public/tempHeat.svg"
-import Wind from "/public/wind.svg"
+import Wind from "/public/Wind.svg"
 import Tornado from "/public/tornado.svg"
 import Skeleton from 'react-loading-skeleton'
 import 'react-loading-skeleton/dist/skeleton.css'
