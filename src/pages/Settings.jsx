@@ -1,12 +1,6 @@
 import { Link, useNavigate } from "react-router-dom"
 import BackArrow from "/public/backArrow.svg"
 import { useState, useEffect } from "react"
-import Drops from "/public/Drops.svg"
-import Sun from "/public/Sun.svg"
-import TempCold from "/public/tempCold.svg"
-import TempHeat from "/public/tempHeat.svg"
-import Wind from "/public/wind.svg"
-import Tornado from "/public/tornado.svg"
 import SearchArrow from "/public/searchArrow.svg"
 import TrashIcon from "/public/trashCan.svg"
 
