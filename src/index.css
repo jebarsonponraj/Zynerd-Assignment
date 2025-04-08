@@ -1,0 +1,31 @@
+@import "tailwindcss";
+
+
+@theme {
+}
+
+:root{
+  background-color: #000000;
+  color: #ffffff;
+}
+
+body{
+  background: linear-gradient(180deg, #0034AD 0%, #AAC4FF 100%);
+  overflow: hidden;
+}
+
+.weather-card{
+  background-image: url('/public/clouds.svg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: right;
+
+}
+
+.card {
+  flex: 0 0 auto;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
